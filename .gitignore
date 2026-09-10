@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.DS_Store
+
+/exc.js
+/index.html
+/package.json
+/package-lock.json
+/photo.JPG
+/react/
